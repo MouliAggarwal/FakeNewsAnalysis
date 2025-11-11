@@ -7,7 +7,6 @@ This project aims to analyze and detect fake news using a dataset sourced from K
 Source: Kaggle
 
 Content: The dataset consists of news articles labeled as 'fake' or 'real.' It includes fields such as title, author, content, and publication date.
-
 Key Features:
 Title
 Text
