@@ -44,20 +44,18 @@ NLTK/TextBlob: Employed for Natural Language Processing, sentiment, and tone ana
  Imported the dataset into Microsoft Excel for initial inspection.
  Cleaned the data by removing duplicates and handling missing values to ensure accuracy for further analysis.
 
-3. Exploratory Data Analysis (EDA)
+2. Exploratory Data Analysis (EDA)
 Generated summary statistics (e.g., counts by label, basic descriptive stats) in Excel.
+Created visual summaries, such as bar and pie charts, to explore trends in the dataset.
 
- Created visual summaries, such as bar and pie charts, to explore trends in the dataset.
-
-5. Data Import Into Python
+3. Data Import Into Python
  Loaded the cleaned dataset into Google Colab for in-depth analysis using Python.
 
-6. Sentiment and Tone Analysis
+4. Sentiment and Tone Analysis
  Applied Natural Language Processing (NLP) techniques via NLTK/TextBlob to assess the polarity and subjectivity of news articles.
+Compared linguistic patterns between fake and real news articles.
 
- Compared linguistic patterns between fake and real news articles.
-
-7. Visualization and Interpretation
+5. Visualization and Interpretation
  Leveraged Python libraries to produce visualizations illustrating patterns, distributions, and key differentiators between authentic and fake news.
 
 # Result Summary
