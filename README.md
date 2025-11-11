@@ -8,15 +8,7 @@ Source: Kaggle
 
 Content: The dataset consists of news articles labeled as 'fake' or 'real.' It includes fields such as title, author, content, and publication date.
 
-Key Features:
-Title
-Text
-Date
-Source
-Author
-Category
-Label
-Tone
+Key Features: Title, Text, Date, Source, Author, Category, Label, Tone
 
 # Tone Used
 Microsoft Excel: Used for initial data compilation, cleaning (removal of duplicates, missing values), and for creating preliminary visualizations such as charts and graphs.
