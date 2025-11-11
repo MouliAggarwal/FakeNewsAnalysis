@@ -32,9 +32,9 @@ This structured dataset enables detailed analysis for identifying patterns, tren
 
 ### Google Colab: Served as the primary platform for Python analysis, data manipulation, and visualization.
 
-### Python Libraries:
-pandas: Used for efficient data manipulation and analysis.
-NLTK/TextBlob: Employed for Natural Language Processing, sentiment, and tone analysis on the news articles.
+### Python Libraries: 
+- pandas: Used for efficient data manipulation and analysis.
+- NLTK/TextBlob: Employed for Natural Language Processing, sentiment, and tone analysis on the news articles.
 
 ## Analysis Workflow
 1. Data Preparation
@@ -54,5 +54,3 @@ Compared linguistic patterns between fake and real news articles.
 
 5. Visualization and Interpretation
  Leveraged Python libraries to produce visualizations illustrating patterns, distributions, and key differentiators between authentic and fake news.
-
-## Result Summary
