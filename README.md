@@ -12,7 +12,7 @@ Content: The dataset consists of news articles labeled as 'fake' or 'real.' It i
 
 Key Features:
 
-○ Title- The headline or main title of the news article.
+- Title- The headline or main title of the news article.
 
 ○ Text- Full body text content of the news article.
 
