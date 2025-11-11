@@ -37,12 +37,12 @@ NLTK/TextBlob: Employed for Natural Language Processing, sentiment, and tone ana
 
 # Analysis Workflow
 1. Data Preparation
- -Imported the dataset into Microsoft Excel for initial inspection.
- -Cleaned the data by removing duplicates and handling missing values to ensure accuracy for further analysis.
+ Imported the dataset into Microsoft Excel for initial inspection.
+ Cleaned the data by removing duplicates and handling missing values to ensure accuracy for further analysis.
 
 2. Exploratory Data Analysis (EDA)
--Generated summary statistics (e.g., counts by label, basic descriptive stats) in Excel.
--Created visual summaries, such as bar and pie charts, to explore trends in the dataset.
+Generated summary statistics (e.g., counts by label, basic descriptive stats) in Excel.
+Created visual summaries, such as bar and pie charts, to explore trends in the dataset.
 
 3. Data Import Into Python
  Loaded the cleaned dataset into Google Colab for in-depth analysis using Python.
