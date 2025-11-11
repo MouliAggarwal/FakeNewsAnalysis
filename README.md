@@ -6,7 +6,9 @@ This project aims to analyze and detect fake news using a dataset sourced from K
 # Dataset Information
 Source: Kaggle
 
+
 Content: The dataset consists of news articles labeled as 'fake' or 'real.' It includes fields such as title, author, content, and publication date.
+
 
 Key Features:
 
@@ -15,10 +17,15 @@ Title- The headline or main title of the news article.
 Text- Full body text content of the news article.
 
 Date- Publication date of the article, useful for trend analysis over time.
+
 Source- The original publisher or platform where the news was released.
+
 Author- Name of the person or entity that authored the article.
+
 Category- Classification by topic or genre of the news story (e.g., politics, health, technology).
+
 Label- Indicator specifying whether the article is verified as real or identified as fake.
+
 Tone- Sentiment or emotional tone analysis of the article’s language, categorized typically as positive or negative.
 
 This structured dataset enables detailed analysis for identifying patterns, trends, and distinctions between genuine and misleading news content. It supports various methods like natural language processing, sentiment analysis, and machine learning for fake news detection and insight extraction.
