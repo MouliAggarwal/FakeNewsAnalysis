@@ -11,7 +11,9 @@ Content: The dataset consists of news articles labeled as 'fake' or 'real.' It i
 Key Features:
 
 Title- The headline or main title of the news article.
+
 Text- Full body text content of the news article.
+
 Date- Publication date of the article, useful for trend analysis over time.
 Source- The original publisher or platform where the news was released.
 Author- Name of the person or entity that authored the article.
