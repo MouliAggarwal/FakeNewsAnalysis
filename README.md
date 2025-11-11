@@ -42,10 +42,12 @@ NLTK/TextBlob: Employed for Natural Language Processing, sentiment, and tone ana
 # Analysis Workflow
 1. Data Preparation
 ○ Imported the dataset into Microsoft Excel for initial inspection.
+
 ○ Cleaned the data by removing duplicates and handling missing values to ensure accuracy for further analysis.
 
 3. Exploratory Data Analysis (EDA)
 ○ Generated summary statistics (e.g., counts by label, basic descriptive stats) in Excel.
+
 ○ Created visual summaries, such as bar and pie charts, to explore trends in the dataset.
 
 5. Data Import Into Python
@@ -53,6 +55,7 @@ NLTK/TextBlob: Employed for Natural Language Processing, sentiment, and tone ana
 
 6. Sentiment and Tone Analysis
 ○ Applied Natural Language Processing (NLP) techniques via NLTK/TextBlob to assess the polarity and subjectivity of news articles.
+
 ○ Compared linguistic patterns between fake and real news articles.
 
 5. Visualization and Interpretation
