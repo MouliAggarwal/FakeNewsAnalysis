@@ -29,7 +29,7 @@ This project aims to analyze patterns, linguistic features, and sentiment differ
 
 This structured dataset enables detailed analysis for identifying patterns, trends, and distinctions between genuine and misleading news content. It supports various methods like natural language processing, sentiment analysis, and machine learning for fake news detection and insight extraction.
 
-## Tone Used
+## Tools Used
 
 ### Microsoft Excel: Used for initial data compilation, cleaning (removal of duplicates, missing values), and for creating preliminary visualizations such as charts and graphs.
 
