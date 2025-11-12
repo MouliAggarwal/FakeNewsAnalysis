@@ -3,6 +3,9 @@
 ## Project Description
 This project aims to analyze patterns, linguistic features, and sentiment differences between fake and real news articles using a dataset sourced from Kaggle. The goal is to understand the distinguishing characteristics of fake versus real news to support future efforts in misinformation awareness and automated detection.
 
+## Dashboard
+<img width="1235" height="704" alt="image" src="https://github.com/user-attachments/assets/b34db7fa-a4ea-4a3a-8ca5-2645beed8419" />
+
 ## Dataset Information
 ### Source: Kaggle
 
